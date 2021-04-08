@@ -246,8 +246,8 @@ section .title{
     background: orange;
 }
 .skills-content .right .html::before{
-    width: 60%;
-    background: orange;
+    width: 80%;
+    background: crimson;
 }
 .skills-content .right .py::before{
     width: 40%;
