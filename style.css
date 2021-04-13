@@ -170,15 +170,15 @@ section .title{
 }
 
 .about .about-content .right a:link{
-    color: blue;
+    color: crimson;
 }
 
 .about .about-content .right a:visited {
-    color: green;
+    color: hotpink;
 }
 
 .about .about-content .right a:hover {
-    color: hotpink;
+    color: green;
 }
 
 .about .about-content .right a:active {
@@ -312,6 +312,22 @@ section .title{
     border-bottom: 2px solid #009879;
 }
 
+.styled-table a:link{
+    color: crimson;
+}
+
+.styled-table a:visited {
+    color: hotpink;
+}
+
+.styled-table a:hover {
+    color: green;
+}
+
+.styled-table a:active {
+    color: darkslateblue;
+}
+
 /* Resume CSS */
 
 .resume{
@@ -333,15 +349,15 @@ section .title{
 }
 
 .resume .resume-content a:link{
-    color: blue;
+    color: crimson;
 }
 
 .resume .resume-content a:visited {
-    color: green;
+    color: hotpink;
 }
 
 .resume .resume-content a:hover {
-    color: hotpink;
+    color: green;
 }
 
 .resume .resume-content a:active {
